@@ -6,5 +6,3 @@ Brief Introduction
 
 Contact Me
 - 📧 E-Mail: zh.unbaidu.net(at)gmail.com
-
-![ChihyuenWang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChihyuenWang&show_icons=true)
